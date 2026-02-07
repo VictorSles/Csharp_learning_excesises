@@ -1,0 +1,8 @@
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\1 - Condicionais\Ex03\Ex03\Ex03\bin\Debug\Ex03.exe.config
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\1 - Condicionais\Ex03\Ex03\Ex03\bin\Debug\Ex03.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\1 - Condicionais\Ex03\Ex03\Ex03\bin\Debug\Ex03.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\1 - Condicionais\Ex03\Ex03\Ex03\obj\Debug\Ex03.csproj.AssemblyReference.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\1 - Condicionais\Ex03\Ex03\Ex03\obj\Debug\Ex03.csproj.CoreCompileInputs.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\1 - Condicionais\Ex03\Ex03\Ex03\obj\Debug\Ex03.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\1 - Condicionais\Ex03\Ex03\Ex03\obj\Debug\Ex03.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\1 - Condicionais\Ex03\Ex03\Ex03\obj\Debug\Ex03.exe.config

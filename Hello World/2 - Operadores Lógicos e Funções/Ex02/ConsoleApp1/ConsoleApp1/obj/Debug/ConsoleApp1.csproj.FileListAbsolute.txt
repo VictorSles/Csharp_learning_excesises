@@ -1,0 +1,8 @@
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\Ex02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\Ex02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\Ex02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\Ex02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\Ex02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\Ex02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\Ex02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\Ex02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
