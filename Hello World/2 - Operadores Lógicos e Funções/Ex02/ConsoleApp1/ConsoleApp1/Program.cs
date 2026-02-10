@@ -20,11 +20,27 @@ namespace ConsoleApp1
             // Precisamos sempre defnir o tipo de variável dos parâmetros de cada função
             // Observe que a função criada (minhaPrimeiraFuncao(nome, idade)) é fora da função main
             // E os parâmetros da função são chamados na Main() pq foi lá onde eles foram declarados.
-            minhaPrimeiraFuncao(nome, idade);
+            int anoNascimento = meuNascmiento(idade);
+            string meuSobrenome = sobrenome(nome);
+            minhaPrimeiraFuncao(nome, idade, anoNascimento, meuSobrenome);
         }
-        static void minhaPrimeiraFuncao(string meuNome, int minhaIdade)
+        static void minhaPrimeiraFuncao(string meuNome, int minhaIdade, int anoNasc, string Meusobrenome)
         {
             Console.WriteLine($"Prazer conhecê-lo Sr. {meuNome} de {minhaIdade} anos!");
+            Console.WriteLine($"Você nasceu no ano {anoNasc} e seu sobrenome é {Meusobrenome}");
+        }
+        // As funções podem referenciar um retorno vazio (void) como no caso acima
+        // Mas tb podem referenciar um retorno de algum tipo de varável
+        static int meuNascmiento(int minhaIdade)
+        {
+            int AnoNascimento = 2025 - minhaIdade;
+            return AnoNascimento;
+        }
+        static string sobrenome(string nome)
+        {
+            string sobrenome = "Victor";
+            //Console.WriteLine($"Seu nome é {nome} porém seu sobrenome é {sobrenome}");
+            return sobrenome;
         }
     }
 }
