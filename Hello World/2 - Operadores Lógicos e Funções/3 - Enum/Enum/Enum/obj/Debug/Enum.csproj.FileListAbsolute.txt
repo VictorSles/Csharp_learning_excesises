@@ -1,0 +1,7 @@
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\3 - Enum\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\3 - Enum\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\3 - Enum\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\3 - Enum\Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\3 - Enum\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\3 - Enum\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\3 - Enum\Enum\Enum\obj\Debug\Enum.pdb

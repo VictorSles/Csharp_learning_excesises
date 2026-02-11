@@ -1,0 +1,7 @@
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\2 - Switch\Swicth\Swicth\obj\Debug\Swicth.csproj.AssemblyReference.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\2 - Switch\Swicth\Swicth\obj\Debug\Swicth.csproj.CoreCompileInputs.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\2 - Switch\Swicth\Swicth\bin\Debug\Swicth.exe.config
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\2 - Switch\Swicth\Swicth\bin\Debug\Swicth.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\2 - Switch\Swicth\Swicth\bin\Debug\Swicth.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\2 - Switch\Swicth\Swicth\obj\Debug\Swicth.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\2 - Switch\Swicth\Swicth\obj\Debug\Swicth.pdb
