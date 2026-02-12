@@ -1,0 +1,8 @@
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\7 - For\For\For\bin\Debug\For.exe.config
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\7 - For\For\For\bin\Debug\For.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\7 - For\For\For\bin\Debug\For.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\7 - For\For\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\7 - For\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\7 - For\For\For\obj\Debug\For.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\7 - For\For\For\obj\Debug\For.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\7 - For\For\For\obj\Debug\For.exe.config

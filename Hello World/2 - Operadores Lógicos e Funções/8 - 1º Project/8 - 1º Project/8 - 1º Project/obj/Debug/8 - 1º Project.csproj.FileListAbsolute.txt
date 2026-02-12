@@ -1,0 +1,8 @@
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\8 - 1º Project\8 - 1º Project\8 - 1º Project\bin\Debug\8 - 1º Project.exe.config
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\8 - 1º Project\8 - 1º Project\8 - 1º Project\bin\Debug\8 - 1º Project.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\8 - 1º Project\8 - 1º Project\8 - 1º Project\bin\Debug\8 - 1º Project.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\8 - 1º Project\8 - 1º Project\8 - 1º Project\obj\Debug\8 - 1º Project.csproj.AssemblyReference.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\8 - 1º Project\8 - 1º Project\8 - 1º Project\obj\Debug\8 - 1º Project.csproj.CoreCompileInputs.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\8 - 1º Project\8 - 1º Project\8 - 1º Project\obj\Debug\8 - 1º Project.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\8 - 1º Project\8 - 1º Project\8 - 1º Project\obj\Debug\8 - 1º Project.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\8 - 1º Project\8 - 1º Project\8 - 1º Project\obj\Debug\8 - 1º Project.exe.config

@@ -1,0 +1,7 @@
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\6 - Foreach\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\6 - Foreach\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\6 - Foreach\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\6 - Foreach\Foreach\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\6 - Foreach\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\6 - Foreach\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\2 - Operadores Lógicos e Funções\6 - Foreach\Foreach\Foreach\obj\Debug\Foreach.pdb
