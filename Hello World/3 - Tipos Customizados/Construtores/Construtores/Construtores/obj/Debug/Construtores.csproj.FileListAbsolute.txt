@@ -1,0 +1,8 @@
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\3 - Tipos Customizados\Construtores\Construtores\Construtores\bin\Debug\Construtores.exe.config
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\3 - Tipos Customizados\Construtores\Construtores\Construtores\bin\Debug\Construtores.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\3 - Tipos Customizados\Construtores\Construtores\Construtores\bin\Debug\Construtores.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\3 - Tipos Customizados\Construtores\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\3 - Tipos Customizados\Construtores\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\3 - Tipos Customizados\Construtores\Construtores\Construtores\obj\Debug\Construtores.exe
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\3 - Tipos Customizados\Construtores\Construtores\Construtores\obj\Debug\Construtores.pdb
+C:\Users\3808777\source\repos\Hello World\Csharp_learning_excesises\Hello World\3 - Tipos Customizados\Construtores\Construtores\Construtores\obj\Debug\Construtores.exe.config
